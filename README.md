@@ -1,4 +1,4 @@
-# p5.js Template
+# week03 exercise
 
 This is a README file that can be used to describe and document your assignment.
 
@@ -6,6 +6,10 @@ Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://w
 
 ---
 ---
+Image on repo:  
+![sensei image](./WechatIMG147.jpg)
+
+
 
 # Heading1
 ## Heading2
