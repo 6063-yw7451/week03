@@ -7,7 +7,7 @@ Markdown Cheatsheet (from [https://www.markdownguide.org/cheat-sheet/](https://w
 ---
 ---
 Image on repo:  
-![sensei image](./WechatIMG147.jpg)
+![sensei image](./WechatIMG147.jpeg)
 
 
 
